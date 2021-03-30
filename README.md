@@ -22,3 +22,8 @@ This repo documents the papers related to the topic "Representaiton Learning in 
 7. [Unsupervised State Representation Learning in Atari. 2019 NIPS](https://arxiv.org/pdf/1906.08226.pdf)
 8. [Reinforcement Learning with Prototypical Representations. 2021](https://arxiv.org/pdf/2102.11271.pdf)
 9. [Masked Contrastive Representation Learning for Reinforcement Learning. 2020](https://arxiv.org/pdf/2010.07470.pdf)
+10. [Stochastic Latent Actor-Critic: Deep ReinforcementLearning with a Latent Variable Model. 2020 NIPS](https://arxiv.org/pdf/1907.00953.pdf)
+11. [Improving Sample Efficiency in Model-Free Reinforcement Learningfrom Images. 2020](https://arxiv.org/pdf/1910.01741.pdf)
+12. [Data-Efficient Reinforcement Learning with Self-Predictive Representations. 2020](https://arxiv.org/pdf/2007.05929.pdf)
+13. [Playing hard exploration games by watching YouTube. 2018](https://arxiv.org/pdf/1805.11592.pdf)
+14. [Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery. 2020](https://openreview.net/pdf?id=H1lmhaVtvr)
