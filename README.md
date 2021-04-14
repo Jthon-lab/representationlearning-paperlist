@@ -30,7 +30,3 @@ This repo documents the papers related to the topic "Representaiton Learning in 
 15. [Playing hard exploration games by watching YouTube. 2018](https://arxiv.org/pdf/1805.11592.pdf)
 16. [Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery. 2020](https://openreview.net/pdf?id=H1lmhaVtvr)
 17. [Deep Reinforcement and InfoMax Learning. 2020 NIPS](https://arxiv.org/pdf/2006.07217.pdf)
-
-### Model-based Reinforcement Learning ###
-1. [Dream to Control: Learning Behaviors by Latent Imagination. 2020 ICLR](https://arxiv.org/pdf/1912.01603.pdf)
-2. [World Models. 2018](https://arxiv.org/pdf/1803.10122.pdf)
