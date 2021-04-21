@@ -11,6 +11,7 @@ This repo documents the papers related to the topic "Representaiton Learning in 
 6. [Learning Representations by Maximizing Mutual Information Across Views. 2019 NIPS](https://arxiv.org/pdf/1906.00910.pdf)
 7. [Representation Learning with Video Deep InfoMax. 2020](https://arxiv.org/pdf/2007.13278.pdf)
 8. [Debiased Contrastive Learning. 2020 NIPS](https://arxiv.org/pdf/2007.00224.pdf)
+9. [Bootstrap Your Own LatentA New Approach to Self-Supervised Learning.2020](https://arxiv.org/pdf/2006.07733.pdf)
 
 ### Representation Learning in Reinforcement Learning ###
 1. [CURL: Contrastive Unsupervised Representations for Reinforcement Learning. 2020 ICML](https://arxiv.org/pdf/2004.04136.pdf)
@@ -30,3 +31,4 @@ This repo documents the papers related to the topic "Representaiton Learning in 
 15. [Playing hard exploration games by watching YouTube. 2018](https://arxiv.org/pdf/1805.11592.pdf)
 16. [Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery. 2020](https://openreview.net/pdf?id=H1lmhaVtvr)
 17. [Deep Reinforcement and InfoMax Learning. 2020 NIPS](https://arxiv.org/pdf/2006.07217.pdf)
+18. [Bootstrap Latent-Predictive Representationsfor Multitask Reinforcement Learning.2020](https://arxiv.org/pdf/2004.14646.pdf)
